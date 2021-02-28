@@ -8,7 +8,7 @@ You can read about our culture on our culture page [Newicon culture](https://new
 
 ## Sections (coming soon)
 
-* [Newicon Is You]()
+* [Newicon Is You](https://github.com/newicon/handbook/blob/master/newicon-is-you.md)
 * [What We Stand For](https://github.com/newicon/handbook/blob/master/what-we-stand-for.md)
 * [What Influenced Us](https://github.com/newicon/handbook/blob/master/what-influenced-us.md)
 * [Vocabulary](https://github.com/newicon/handbook/blob/master/vocabulary.md)
