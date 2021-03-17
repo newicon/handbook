@@ -2,7 +2,7 @@
 
 This is the start of the Newicon handbook.
 
-[Newicon is a software development company](https://newicon.net).
+[Newicon is a software development in Bristol](https://newicon.net).
 
 You can read about our culture on our culture page [Newicon culture](https://newicon.net/culture).
 
