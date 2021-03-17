@@ -20,5 +20,5 @@ You can read about our culture on our culture page [Newicon culture](https://new
 * Our Rituals
 * Making a Career
 * Our Internal Systems
-* A Note About Moonlighting
+* Moonlighting
 * FAQ
