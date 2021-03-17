@@ -14,6 +14,9 @@ You can read about our culture on our culture page [Newicon culture](https://new
 * Vocabulary
 * Who Does What?
 * [Job Titles](https://github.com/newicon/handbook/blob/master/job-titles.md)
+* [Titles For Programmers](https://github.com/newicon/handbook/blob/master/titles-for-programmers.md)
+* [Titles For Designers](https://github.com/newicon/handbook/blob/master/titles-for-designers.md)
+* [Titles For Digital](https://github.com/newicon/handbook/blob/master/titles-for-digital.md)
 * Where We Work
 * Benefits & Perks
 * Getting Started
