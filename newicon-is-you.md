@@ -6,4 +6,4 @@ The same is true for all bsuiness.  The same is true at Newicon, and we recognis
 
 It means empathising with a customer and taking the time to get the writing right and consider how you’d feel if you were on the other side of the interaction.
 
-This means marketing is everyones responsibility.
+This means marketing is also everyones responsibility.
