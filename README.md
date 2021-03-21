@@ -2,7 +2,7 @@
 
 This is the start of the Newicon handbook.
 
-[Newicon is a software development in Bristol](https://newicon.net).
+Newicon is a [software development company from Bristol](https://newicon.net).
 
 You can read about our culture on our culture page [Newicon culture](https://newicon.net/culture).
 
@@ -17,6 +17,7 @@ You can read about our culture on our culture page [Newicon culture](https://new
 * [Titles For Programmers](https://github.com/newicon/handbook/blob/master/titles-for-programmers.md)
 * [Titles For Designers](https://github.com/newicon/handbook/blob/master/titles-for-designers.md)
 * [Titles For Digital](https://github.com/newicon/handbook/blob/master/titles-for-digital.md)
+* [Bristol Office](https://github.com/newicon/handbook/blob/master/bristol-office.md)
 * Where We Work
 * Benefits & Perks
 * Getting Started
@@ -26,5 +27,3 @@ You can read about our culture on our culture page [Newicon culture](https://new
 * Our Internal Systems
 * Moonlighting
 * FAQ
-
-
