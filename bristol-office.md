@@ -13,7 +13,7 @@ Bristol is famous for making streat art take a world wide stage.
 - Aardman (Wallace and Gromit)
 
 ## It's Techy.
-With many large and small innovation industries such as Airbu, Rolls Royce and BAE Systems.
+With many large and small innovation industries such as Airbus, Rolls Royce and BAE Systems.
 Bristol Aeroplane Company was one of the first and most important British aviation companies.
 It was where Concorde was made.
 
