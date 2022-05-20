@@ -21,3 +21,6 @@ It was where Concorde was made.
 Oooh arr, Bristal's history is famous for pirates and Edward Teach of Black Beard fame resided here.
 
 The blend of art, science and technology mixed with a pinch of rebellion - is the perfect place to start a cutting edge [software development company](https://newicon.net).
+
+## Second Einstein
+Paul Dirac famously went to school and grew up in Bristol.  The Dirac equation unified reletivity and quantum mechanics and the symetry of the Dirac equation predicted anti matter particles.  These were later discovered.
